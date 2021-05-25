@@ -1,0 +1,16 @@
+.heading{
+    width: 80%;
+    font-size: 22px;
+    }
+    body{
+    color: azure;
+    background-color: blueviolet;
+    }
+    .name_of_object, #result_object_name, #result_object_accuracy{
+    color: cyan;
+    }
+    #camera{
+    border: 2px dashed blue ;
+    width: 350px;
+    height: 300px;
+    }
